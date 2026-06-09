@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"name": "claude-automations",
+			"path": "."
+		},
+		{
+			"name": "agents",
+			"path": "../../claude-seo-main/agents"
+		},
+		{
+			"name": "assets",
+			"path": "../../claude-seo-main/assets"
+		},
+		{
+			"name": "branding",
+			"path": "../../claude-seo-main/branding"
+		},
+		{
+			"name": "data",
+			"path": "../../claude-seo-main/data"
+		},
+		{
+			"name": "docs",
+			"path": "../../claude-seo-main/docs"
+		},
+		{
+			"name": "extensions",
+			"path": "../../claude-seo-main/extensions"
+		},
+		{
+			"name": "hooks",
+			"path": "../../claude-seo-main/hooks"
+		},
+		{
+			"name": "pdf",
+			"path": "../../claude-seo-main/pdf"
+		},
+		{
+			"name": "schema",
+			"path": "../../claude-seo-main/schema"
+		},
+		{
+			"name": "screenshots",
+			"path": "../../claude-seo-main/screenshots"
+		},
+		{
+			"name": "scripts",
+			"path": "../../claude-seo-main/scripts"
+		},
+		{
+			"name": "skills",
+			"path": "../../claude-seo-main/skills"
+		},
+		{
+			"name": "tests",
+			"path": "../../claude-seo-main/tests"
+		}
+	],
+	"settings": {}
+}
