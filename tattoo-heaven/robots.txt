@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tattoo-heaven.nl/sitemap.xml
